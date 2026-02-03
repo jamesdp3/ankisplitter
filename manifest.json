@@ -1,0 +1,6 @@
+{
+  "name": "AI Cloze Splitter",
+  "package": "ai_cloze_splitter",
+  "version": "0.1.0",
+  "min_anki_version": "2.1.50"
+}

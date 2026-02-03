@@ -1,0 +1,11 @@
+{
+  "api_key": "",
+  "api_base": "https://api.openai.com/v1",
+  "model": "gpt-4o-mini",
+  "target_field_name": "",
+  "add_tags": ["ai-split"],
+  "max_splits_per_note": 20,
+  "request_timeout_s": 60,
+  "use_ankiconnect": false,
+  "ankiconnect_url": "http://127.0.0.1:8765"
+}
